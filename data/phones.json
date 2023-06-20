@@ -1,5 +1,6 @@
-[
-  {
+{
+  "phones": [
+    {
       "id": 0,
       "name": "iPhone 7",
       "manufacturer": "Apple",
@@ -10,8 +11,8 @@
       "screen": "4,7 inch IPS",
       "processor": "A10 Fusion",
       "ram": 2
-  },
-  {
+    },
+    {
       "id": 1,
       "name": "Galaxy S7",
       "manufacturer": "Samsung",
@@ -22,8 +23,8 @@
       "screen": "5,1 inch Quad-HD",
       "processor": "Snapdragon 820",
       "ram": 4
-  },
-  {
+    },
+    {
       "id": 2,
       "name": "Honor 10",
       "manufacturer": "Huawei",
@@ -34,8 +35,8 @@
       "screen": "5,84 inch Full-HD",
       "processor": "Kirin 970",
       "ram": 6
-  },
-  {
+    },
+    {
       "id": 3,
       "name": "P10 Lite",
       "manufacturer": "Huawei",
@@ -46,8 +47,8 @@
       "screen": "5,2 inch Full-HD",
       "processor": "Kirin 658",
       "ram": 4
-  },
-  {
+    },
+    {
       "id": 4,
       "name": "Nokia 7.1",
       "manufacturer": "Nokia",
@@ -58,8 +59,8 @@
       "screen": "5,84 inch Full-HD",
       "processor": "Octa-core",
       "ram": 4
-  },
-  {
+    },
+    {
       "id": 5,
       "name": "Zen Phone 5",
       "manufacturer": "Asus",
@@ -70,8 +71,8 @@
       "screen": "6,2 inch Full-HD",
       "processor": "Snapdragon 636",
       "ram": 6
-  },
-  {
+    },
+    {
       "id": 6,
       "name": "MI A2",
       "manufacturer": "Xiaomi",
@@ -82,8 +83,8 @@
       "screen": "5,99 inch Full-HD",
       "processor": "Snapdragon 660",
       "ram": 6
-  },
-  {
+    },
+    {
       "id": 7,
       "name": "Moto G6",
       "manufacturer": "Motorola",
@@ -94,5 +95,6 @@
       "screen": "5,7 inch Full-HD",
       "processor": "Snapdragon 450",
       "ram": 3
-  }
-]
+    }
+  ]
+}
